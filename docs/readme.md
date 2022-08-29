@@ -1,41 +1,69 @@
 # Preview
 
+## Detailed view for single modcase
+
+![modcase](modcase.png)
+
 ## Dashboard
 
-<img src="dashboard.png"/>
+![dashboard](dashboard.png)
 
-## Userscan
+## Admin Dashboard
 
-<img src="userscan.png"/>
+![admindashboard](admindashboard.png)
+
+## Choose look of your dashboard
+
+![dashboardsettings](dashboardsettings.png)
 
 ## Modcase overview
 
-<img src="modcases.png"/>
+![modcases](modcases.png)
 
-## Modcase creation
+## Guild audit log
 
-<img src="modcasecreate.png"/>
+![guildauditlog](guildauditlog.png)
 
-## Detailed view for single modcase
+## Audit log
 
-<img src="modcase.png"/>
+![auditlog](auditlog.png)
+
+## Search function
+
+![search](search.png)
+
+## Guild configuration
+
+![guildconfig](guildconfig.png)
+
+## Ban appeal
+
+![banappeal](banappeal.png)
+
+## MASZ admin settings
+
+![maszsettings](maszsettings.png)
 
 ## Commands to punish in discord
 
-<img src="mute_command.png"/>
+![mute_command](mute_command.png)
 
 ## Configuration for automoderation
 
-<img src="automoderationconfig.png"/>
+![automoderationconfig](automoderationconfig.png)
 
 ## Logs for automoderated events
 
-<img src="automoderations.png"/>
+![automoderations](automoderations.png)
 
 ## ModCase Notification embed for your guild members and moderation team
 
-<img src="embed.png"/>
+![embed](embed.png)
 
 ## Comment Notification embed for your moderation team
 
-<img src="comments.png"/>
+![comments](comments.png)
+
+## Modcase creation
+
+![modcasecreate](modcasecreate.png)
